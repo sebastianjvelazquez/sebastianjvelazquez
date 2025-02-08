@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sebastian! <br/><a href="https://github.com/sebastianjvelazquez">Programmer</a>, <a href="https://www.linkedin.com/in/sebastianjvelazquez/">Cybersecurity Student</a>
+<h1>Hi, I'm Sebastian! <br/><a href="https://github.com/sebastianjvelazquez">Software Developer</a>, <a href="https://www.linkedin.com/in/sebastianjvelazquez/">Cybersecurity Student👾/a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
