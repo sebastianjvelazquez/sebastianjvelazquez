@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianjvelazquez/)
 [![Website](https://img.shields.io/badge/-sjvelazquez.com-000000?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://sjvelazquez.com)
 
-I'm a **Cybersecurity Engineering & Architecture Intern** and Computer Science student at **Florida State University**, passionate about protecting systems, people, and data through thoughtful design and practical defense. My experience spans identity and access management, privileged access management, vulnerability management, and cloud compliance.
+I'm a **Cybersecurity Engineering & Architecture Intern** and Computer Science student at **Florida State University**, passionate about protecting systems, people, and data through thoughtful design and engineering.
 
 I align my work with frameworks including **NIST CSF**, **ISO 27001**, and **CMMC**, and I'm driven by the impact cybersecurity has on trust and resilience in a connected world.
 
@@ -11,7 +11,7 @@ I align my work with frameworks including **NIST CSF**, **ISO 27001**, and **CMM
 
 ## 🎯 Objective
 
-Growing toward a career as a **Cybersecurity Engineer** and future **Security Architect**, designing solutions that balance innovation with protection. I value integrity, accountability, and curiosity — principles that guide every project I take on.
+Growing toward a career as a **Cybersecurity Engineer** and future **Security Architect**, designing solutions that balance innovation with protection. I value integrity, accountability, and curiosity as the foundation of everything I build.
 
 ---
 
@@ -30,6 +30,7 @@ Growing toward a career as a **Cybersecurity Engineer** and future **Security Ar
 | Project | Description |
 | --- | --- |
 | Personal Portfolio Site | [sjvelazquez-site](https://github.com/sebastianjvelazquez/sjvelazquez-site) — [sjvelazquez.com](https://sjvelazquez.com) |
+| Intelligent Job Matching Platform | [Intelligent-Job-Matching-Platform](https://github.com/sebastianjvelazquez/Intelligent-Job-Matching-Platform) — Flask + MySQL web app that matches students to job opportunities based on skill compatibility (COP 4710 · FSU) |
 
 ---
 
@@ -46,6 +47,10 @@ Growing toward a career as a **Cybersecurity Engineer** and future **Security Ar
 
 ### AI & Automation
 [![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white)](https://github.com/sebastianjvelazquez/AI-Powered-Security-Log-Triage)
+
+### Web & Database
+[![Flask](https://img.shields.io/badge/-Flask-000000?&style=for-the-badge&logo=Flask&logoColor=white)](https://github.com/sebastianjvelazquez/Intelligent-Job-Matching-Platform)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/sebastianjvelazquez/Intelligent-Job-Matching-Platform)
 
 ### Operating Systems
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black)](https://github.com/sebastianjvelazquez)
